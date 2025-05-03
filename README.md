@@ -139,3 +139,19 @@ git merge --no-commit
 
 
 git merge --strategy=recursive -X theirs
+
+git merge --strategy=recursive -X theirs
+
+git merge --strategy=recursive -X theirs
+git merge --strategy=recursive -X theirs
+git merge --strategy=recursive -X theirs
+git merge --strategy=recursive -X theirs
+git merge --strategy=recursive -X theirs
+git merge --strategy=recursive -X theirs
+git merge --strategy=recursive -X theirs
+git merge --strategy=recursive -X theirs
+git merge --strategy=recursive -X theirs
+git merge --strategy=recursive -X theirs
+
+
+
