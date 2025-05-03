@@ -136,3 +136,6 @@ fa
 4444444444444
 
 git merge --no-commit	
+
+
+git merge --strategy=recursive -X theirs
