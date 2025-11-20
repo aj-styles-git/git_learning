@@ -76,3 +76,5 @@ JSON
 yield
 
 undefined
+
+5
