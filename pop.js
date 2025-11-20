@@ -60,3 +60,5 @@ f
 AbortController
 BarProp
 CDATASection
+
+DOMException
