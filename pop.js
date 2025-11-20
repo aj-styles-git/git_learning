@@ -92,14 +92,6 @@ ghjk
 @AbortController
 
 
-$
-
-
-^
-
-()
-
-
 2
 2
 2
@@ -118,3 +110,4 @@ a5
 b5
 
 c5
+ghjk
