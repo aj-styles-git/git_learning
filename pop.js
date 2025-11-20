@@ -69,3 +69,4 @@ RTCCertificate
 
 Text
 
+MIDIAccess
