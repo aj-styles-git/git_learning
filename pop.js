@@ -70,3 +70,5 @@ RTCCertificate
 Text
 
 MIDIAccess
+
+JSON
