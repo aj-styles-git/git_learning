@@ -64,3 +64,8 @@ CDATASection
 DOMException
 
 Element
+
+RTCCertificate
+
+Text
+
