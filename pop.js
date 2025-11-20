@@ -62,3 +62,5 @@ BarProp
 CDATASection
 
 DOMException
+
+Element
