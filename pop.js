@@ -74,3 +74,5 @@ MIDIAccess
 JSON
 
 yield
+
+undefined
